@@ -1,6 +1,6 @@
 I'm SODABYTES, and I mostly like screwing around in Godot.
 
 Currently working on:
-	- Payment Comes On Friday
+	- Don't Let Baby Starve!
 
-...and some personal projects.
+...and other personal projects.
