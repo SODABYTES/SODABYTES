@@ -6,8 +6,8 @@ An arcade puzzle game. Currently in active development.
 
 # Team projects
 
-### ???
-Programming, graphical assets, storyboarding, and character design. Currently in active development.
+### Unreleased Unity Game
+Programming, graphical assets, storyboarding, and character design. My friend brought me and a few others onto this project to train us in working as a team and developing in Unity.
 
 ### S.S. (with T.K.)
 My friend and I worked on this project for an adult-themed game jam. I planned out and programmed the main gameplay and drew most of the graphical assets. We won 2nd place!
